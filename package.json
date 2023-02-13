@@ -27,12 +27,14 @@
         "eject": "react-scripts eject"
     },
     "dependencies": {
+        "@solana/spl-token": "^0.3.7",
         "@solana/wallet-adapter-base": "^0.9.20",
         "@solana/wallet-adapter-react": "^0.15.26",
         "@solana/wallet-adapter-react-ui": "^0.9.24",
         "@solana/wallet-adapter-wallets": "^0.19.9",
         "@solana/web3.js": "^1.58.0",
         "bootstrap": "^5.2.3",
+        "buffer": "^6.0.3",
         "react": "^18.0.0",
         "react-app-rewired": "^2.2.1",
         "react-bootstrap": "^2.7.1",
